@@ -1,0 +1,5 @@
+Shaders loaded: C:\Users\User\source\repos\simulator\x64\Debug\water.fx
+Simulation t=3: max displacement=0.224873, foam=0.981399, live spray=627
+Simulation t=19.9999: max displacement=0.179698, foam=0.368363, live spray=374
+Simulation t=59.9993: max displacement=0.377618, foam=0.877049, live spray=545
+D3D11 validation: no warnings or errors.

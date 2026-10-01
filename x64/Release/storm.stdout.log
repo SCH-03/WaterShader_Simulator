@@ -1,0 +1,5 @@
+Shaders loaded: C:\Users\User\source\repos\simulator\x64\Release\water.fx
+1: sunny, 2: storm, drag: orbit, wheel: zoom, F5: reload water.fx, Esc: exit.
+Shaders loaded: C:\Users\User\source\repos\simulator\x64\Release\water.fx
+Simulation t=3: max displacement=0.336686, foam=0.313819, live spray=814
+D3D11 debug layer unavailable; runtime checks only.
